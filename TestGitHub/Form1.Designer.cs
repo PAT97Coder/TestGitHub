@@ -43,13 +43,14 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(309, 178);
+
+            this.button2.Location = new System.Drawing.Point(302, 197);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 0;
-            this.button2.Text = "ANHTUAN";
+            this.button2.Text = "PAT";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+
             // 
             // Form1
             // 
