@@ -37,11 +37,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(325, 200);
+            this.label1.Location = new System.Drawing.Point(51, 127);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(141, 25);
+            this.label1.Size = new System.Drawing.Size(201, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "MANH HUNG";
+            this.label1.Text = "PHAN THANH THAI";
             // 
             // label2
             // 
